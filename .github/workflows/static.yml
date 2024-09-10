@@ -40,6 +40,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          BRANCH: FrontPages
+          BRANCH: main
           FOLDER: docs/.vuepress/dist
           SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
