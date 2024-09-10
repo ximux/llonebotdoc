@@ -1,2 +1,0 @@
-# llonebotdoc.github.io
-llonebotdoc
