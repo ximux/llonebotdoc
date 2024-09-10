@@ -5,7 +5,6 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
   lang: 'en-US',
-  base: "./",
   title: 'LLOneBot文档',
   description: 'LLOneBot文档',
 
