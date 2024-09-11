@@ -10,7 +10,7 @@ export default defineUserConfig({
   base:'/llonebotdoc/',
 
   theme: defaultTheme({
-    logo: 'https://user-images.githubusercontent.com/25968335/120111974-8abef880-c139-11eb-99cd-fa928348b198.png',
+    logo: 'https://s2.loli.net/2024/09/11/qVwpDM9XOzJE7UI.png',
     repo: 'https://gitee.com/msswy/LLOneBotPlus',
     navbar: [
       {

@@ -1,3 +1,3 @@
-import "C:/Users/22823/Desktop/llonebotdoc-main/llonebotdoc-main/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
-import "C:/Users/22823/Desktop/llonebotdoc-main/llonebotdoc-main/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
-import "C:/Users/22823/Desktop/llonebotdoc-main/llonebotdoc-main/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
+import "C:/publicfile/llonebotdoc/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
+import "C:/publicfile/llonebotdoc/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
+import "C:/publicfile/llonebotdoc/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
