@@ -3,7 +3,7 @@ home: true
 heroText: LLOneBot
 tagline: 基于xxx的QQ机器人高并发框架
 title: Home
-heroImage: https://user-images.githubusercontent.com/25968335/120111974-8abef880-c139-11eb-99cd-fa928348b198.png
+heroImage: https://s2.loli.net/2024/09/11/qVwpDM9XOzJE7UI.png
 actions:
   - text: 快速开始
     link: /content/快速开始
