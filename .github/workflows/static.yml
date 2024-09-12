@@ -37,7 +37,7 @@ jobs:
         run: npm install
 
       - name: Run Build Script
-        run: npm run docs:build
+        run: vuepress build docs
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
